@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main{
+public class Triangle_main{
 
     public static void main(String[] agrs){
 
