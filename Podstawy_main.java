@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main{
 
-    public static void main(String[] agrs){
+    public static void Podstawy_main(String[] agrs){
 
         Bicycle b = new Bicycle(3);
         Bicycle b1 = b;
